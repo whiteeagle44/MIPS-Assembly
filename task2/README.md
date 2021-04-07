@@ -1,10 +1,8 @@
-## Task 1
-Change digits in a string for their complements.
+## Task 2
+Print the longest sequence of digits in an inputted string.
 
-### Example
-
+### Example 
 * abc1234def329 -> 1234
-
 
 ### Implementation
 In `.c` and `.asm` file.
