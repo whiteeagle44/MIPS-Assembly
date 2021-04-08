@@ -1,9 +1,6 @@
-## Task 0
+# Task 0
 Change small letters to capital letters in an inputted string.
 
-### Example
+## Example
 * heLLO woRld -> HELLO WORLD
-
-### Implementation
-In `.asm` file.
 
